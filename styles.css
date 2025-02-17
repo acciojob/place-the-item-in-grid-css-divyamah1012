@@ -3,7 +3,8 @@
 	width:200px;
 	height:400px;
 	display:grid;
-	grid-template-columns:100px 100px;
+	
+	grid-template-rows:100px 100px;
 	
 }
 .item1{
