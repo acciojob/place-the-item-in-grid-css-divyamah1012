@@ -1,14 +1,9 @@
 .holder{
 	
 	width:200px;
-	height:400px;
+	height:200px;
 	display:grid;
 	
-	grid-template-rows:200px 200px;
+	grid-template-rows:100px 100px;
 	grid-template-columns:100px 100px;
-	
-}
-.item1{
-	background-color:greenyellow;
-	
 }
