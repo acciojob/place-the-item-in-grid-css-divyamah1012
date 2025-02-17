@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+.holder{
+	
+	width:200px;
+	height:400px;
+	display:grid;
+	grid-template-columns:auto auto;
+	
+}
+.item1{
+	background-color:greenyellow;
+	
+}
